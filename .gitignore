@@ -2,3 +2,4 @@ node_modules
 PDF_ESTD
 .vscode
 tmp/uploads
+.env
